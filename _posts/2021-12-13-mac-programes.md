@@ -18,5 +18,23 @@ Mac을 사용하면서 유용하다고 느꼈던 앱들입니다.
 ## Rectangle
 ![Rectangle](/assets/images/post/2021-12-13-mac-programes/Rectangle.png){: width="200px" height="200px" }
 
-키보드로 창 이동 / 크기 조절    
+키보드로 창 이동 / 크기 조절  
 [다운로드 링크](https://rectangleapp.com/)
+
+## CheatSheet
+![Rectangle](/assets/images/post/2021-12-13-mac-programes/CheatSheet.jpg){: width="200px" height="200px" }
+
+단축키 보기  
+[다운로드 링크](https://www.mediaatelier.com/CheatSheet/)
+
+## RunCat
+![Rectangle](/assets/images/post/2021-12-13-mac-programes/RunCat.jpg){: width="200px" height="200px" }
+
+맥북 상태 모니터링  
+[다운로드 링크](https://apps.apple.com/kr/app/runcat/id1429033973)
+
+## AppCleaner
+![Rectangle](/assets/images/post/2021-12-13-mac-programes/AppCleaner.png){: width="200px" height="200px" }
+
+프로그램 완전 삭제  
+[다운로드 링크](https://freemacsoft.net/appcleaner/)
