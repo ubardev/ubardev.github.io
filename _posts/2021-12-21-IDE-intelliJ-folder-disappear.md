@@ -7,3 +7,5 @@ tags: [IntelliJ]
 ---
 
 IntelliJ로 프로젝트를 열었는데 아래처럼 폴더 / 파일이 보이지 않을 때가 있습니다.
+
+![img.png](../assets/images/post/2021/2021-12-21-IDE-intelliJ-folder-disappear/folder-disappeard.png)
