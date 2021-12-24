@@ -27,3 +27,21 @@ IntelliJ계열 IDE에는 shortcut을 커스터마이징 하는 기능을 제공�
 > Abbreviation: 사용할 단축어(저는 console, log의 앞글자를 따서 cl로 정했습니다)  
 > Description: 설명  
 > Template text: 사용할 텍스트 console.log();
+
+![사용할 단축어와 설명 입력](/assets/images/post/2021/2021-12-20-IDE-log-format/04-input-shortcut-and-description.png)
+*사용할 단축어와 설명 입력*
+
+![추가한 단축어를 사용할 언어 정의](/assets/images/post/2021/2021-12-20-IDE-log-format/05-set-shortcut-info.png)
+*추가한 단축어를 사용할 언어 정의*
+
+![JavaScript와 TypeScript선택](/assets/images/post/2021/2021-12-20-IDE-log-format/06-select-javascript-and-typescript.png)
+*JavaScript와 TypeScript선택*
+
+등록이 완료됐습니다.
+실제 에디터에서 사용해보겠습니다.
+
+![설정 확인](/assets/images/post/2021/2021-12-20-IDE-log-format/07-confirm-setting.png)
+*설정 확인*
+
+위와 같이 cl만 입력하면 console.log();가 입력되도록 shortcut이 설정됐습니다.
+다른 자주 쓰는 텍스트도 위와 같이 등록해놓으면 더 편하게 개발할 수 있습니다.
